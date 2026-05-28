@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey, I'm Yaziel 👋 | Hola, soy Yaziel 👋
 
-<!--
-**Dakpix/Dakpix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | Learning JavaScript & Web Development  
+🚀 Aspirante a Desarrollador Full Stack | Aprendiendo JavaScript y Desarrollo Web
 
-Here are some ideas to get you started:
+🎮 Challenger player & VTuber streamer | Jugador Challenger y streamer VTuber  
+🌙 Building things little by little | Construyendo cosas poco a poco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Currently Learning | Aprendiendo Actualmente
+* JavaScript
+* HTML & CSS
+* Git & GitHub
+
+### 🎯 Goals for 2026 | Metas para 2026
+* **Build my first real website** | Crear mi primera página real
+* **Upload projects constantly** | Subir proyectos constantemente
+* **Learn React** | Aprender React
+* **Work as a developer** | Trabajar como desarrollador
+
+---
+
+### 👾 Fun Facts | Cosas sobre mí
+* 🌌 I love dark & cyberpunk aesthetics | Me encanta la estética oscura y cyberpunk
+* 🕹️ League of Legends enthusiast | Apasionado de League of Legends
+
+---
+
+⚡ *Still becoming the developer kid-me imagined.* 🦖
+⚡ *Todavía convirtiéndome en el desarrollador que imaginaba de niño.* 🦖
