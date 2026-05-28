@@ -1,6 +1,6 @@
 Hey, I'm Yaziel 👋 | Hola, soy Yaziel 👋
 
-🚀 Full Stack Developer in Progress | Learning JavaScript & Web Development
+🚀 Full Stack Developer in Progress | Learning JavaScript & Web Development 
 🚀 Desarrollador Full Stack en progreso | Aprendiendo JavaScript y Desarrollo Web
 
 🎮 Challenger player & VTuber streamer | Jugador Challenger y streamer VTuber  
